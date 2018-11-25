@@ -1,1 +1,2 @@
-# plakbink2
+worker: node bot.js
+
